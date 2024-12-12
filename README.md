@@ -1,4 +1,4 @@
-#Rubik-s-cube-on-a-matrix
+# Rubik-s-cube-on-a-matrix
 Моя попытка сделать кубик-рубик на основе матрицы.
 
 ## Содержание
